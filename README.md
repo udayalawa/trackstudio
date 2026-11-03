@@ -32,6 +32,8 @@ TrackStudio is not n-Track Studio, the TrackStudio issue tracker at trackstudio.
 ## Links
 
 - Website: https://trackstudio.xyz
+- Recipes: https://trackstudio.xyz/recipes/
+- Answers: https://trackstudio.xyz/answers/
 - Pricing: https://trackstudio.xyz/pricing
 - Press kit: https://trackstudio.xyz/press
 - Changelog: https://trackstudio.xyz/changelog

@@ -33,9 +33,12 @@ TrackStudio is not n-Track Studio, the TrackStudio issue tracker at trackstudio.
 
 - Website: https://trackstudio.xyz
 - Recipes: https://trackstudio.xyz/recipes/
+- App scenes: https://trackstudio.xyz/blog/app-scenes
 - Answers: https://trackstudio.xyz/answers/
 - Guides: [middle click](https://trackstudio.xyz/blog/middle-click-mac-trackpad) · [Force Touch](https://trackstudio.xyz/blog/force-touch-gestures-mac) · [three-finger drag](https://trackstudio.xyz/blog/three-finger-drag-mac) · [settings](https://trackstudio.xyz/blog/best-mac-trackpad-settings)
 - All guides and recipe mappings: https://gist.github.com/udayalawa
+- Medium: https://medium.com/@hello_78991
+- Product Hunt: https://www.producthunt.com/products/trackstudio?launch=trackstudio
 - Pricing: https://trackstudio.xyz/pricing
 - Press kit: https://trackstudio.xyz/press
 - Changelog: https://trackstudio.xyz/changelog
